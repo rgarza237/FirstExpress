@@ -1,0 +1,78 @@
+{
+  "koders": [
+    {
+      "id": 1,
+      "name": "Jessica",
+      "gender": "F",
+      "generation": 16
+    },
+    {
+      "id": 2,
+      "name": "ELBRAYAN",
+      "gender": "M",
+      "generation": 16
+    },
+    {
+      "id": 3,
+      "name": "Roberto",
+      "gender": "M",
+      "generation": 16
+    },
+    {
+      "id": 4,
+      "name": "Paco",
+      "gender": "fluido",
+      "generation": 16
+    },
+    {
+      "id": 5,
+      "name": "Heidel",
+      "gender": "M",
+      "generation": 16
+    },
+    {
+      "id": 6,
+      "name": "Heidi",
+      "gender": "F",
+      "generation": "17"
+    },
+    {
+      "id": 7,
+      "name": "Tyron",
+      "gender": "Nigga",
+      "generation": "17"
+    },
+    {
+      "id": 8,
+      "name": "Juanito",
+      "gender": "M",
+      "generation": "17"
+    }
+  ],
+  "mentors": [
+    {
+      "id": 9,
+      "name": "Fer",
+      "gender": "F",
+      "course": "BackEnd"
+    },
+    {
+      "id": 10,
+      "name": "Aldo",
+      "gender": "M",
+      "course": "Maquetado"
+    },
+    {
+      "id": 11,
+      "name": "Ferdinand",
+      "gender": "M",
+      "course": "Logica"
+    },
+    {
+      "id": 12,
+      "name": "Yoshi",
+      "gender": "M",
+      "course": "Javascript"
+    }
+  ]
+}
